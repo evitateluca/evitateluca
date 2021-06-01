@@ -1,2 +1,2 @@
-## 😂 Here is a random joke that'll make you laugh!
+## 😂 Reload the page!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
